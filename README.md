@@ -10,6 +10,7 @@ This project is a plate detection for iranian number plates and uses yolo 7 with
 
 # Detail About The Project
 plate detection works pretty good with most of the car pics but I used EasyOCR for the read the plates and it's not good but im working on a persian ocr model. 
+the project idea all comes from "https://www.youtube.com/watch?v=bgAUHS1Adzo" Maryam Sadeghi        
 
 # Get Start With Project
 1. After Clone the project create a virtual env with this command "python -m venv venv" 
